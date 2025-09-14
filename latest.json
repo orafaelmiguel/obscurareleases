@@ -4,8 +4,8 @@
   "pub_date": "2025-09-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/orafaelmiguel/obscurareleases/releases/download/v1.0.0/passguard_1.0.0_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZnpRUGlWdHBrd3lUYnNJMlk2QStuSTdzb2lhb04yRWE3a1g4VmNzaERqMit5eFRyV3ZmOFY5NldDQzZDNng3cTdoS1NnTlg2UGtSR09yMjl2bmY0dmd0S0UyN2E2QWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODg2ODkyCWZpbGU6cGFzc2d1YXJkXzEuMC4wX3g2NF9lbi1VUy5tc2kKbmQ0UXJLUHVyKzJIeDBROTNWUlBiR2djaGtieVRQNytQcjJlMjA1cWY5bm53a2hWbGg2TFRLcUNydGlZNzcwWXgveFliRUZWSFoxdHZIdzNpb1RRQ3c9PQo="
+      "url": "https://github.com/orafaelmiguel/obscurareleases/releases/download/v1.0.1/passguard_1.0.1_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZnpRUGlWdHBrdzJVeE81bEJvYVJEZTBhMmw1SkdjbUUwa2JMUi9uRHRZWmlDYi96VzhYdDB1N3QwMUhKUDk0LzNDUnB3M1ZscHA5enhJTW5pWlNhMGNKdGhoL3FYTndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODg3NDQ2CWZpbGU6cGFzc2d1YXJkXzEuMC4xX3g2NF9lbi1VUy5tc2kKWk94RnYraHY2K2MyUFRwanFwL2dNZDVOaGZlbC9ndzIrRmpaS3cyOWxtb3Mxcm82eEhQUGI0L2VxendTOFAraFZDbDh6WGIweXRmaHVsSTl0ZWgwQ0E9PQo="
     }
   }
 }
