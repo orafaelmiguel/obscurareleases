@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
 
-      "signature": "untrusted comment: signature from tauri secret key\dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZi91UlVKWGdJbFcxWlUxNmV2OWxtSWNiZ0J3cjREQ29IUGNyNTFDZ21LTWljWUdOQU9yTkM4WVhGNjB5M3owODlUOTFLQ1ZWRUN6K2R3ekFkN0UwMVd0ZlNSeWJFbEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODc3ODEwCWZpbGU6T2JzY3VyYV8xLjMuN194NjRfZW4tVVMubXNpCjNENWl0dU5ZQXpBNFo2MUFLZnpMSCtUbVByNWdCdjlRcFBxTmZKS2JHSUNEUzR6K1BaVU9LZUUvbzdWUGZDa0lPUEZKZUtVUCtKTEdIWVI0WGJOWkRBPT0K\ntrusted comment: timestamp:1757823555\tfile:Obscura_1.3.6_x64_en-US.msi\nByY...==\n",
+      "signature": "untrusted comment: signature from tauri secret key\ndW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZi91UlVKWGdJbFcxWlUxNmV2OWxtSWNiZ0J3cjREQ29IUGNyNTFDZ21LTWljWUdOQU9yTkM4WVhGNjB5M3owODlUOTFLQ1ZWRUN6K2R3ekFkN0UwMVd0ZlNSeWJFbEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODc3ODEwCWZpbGU6T2JzY3VyYV8xLjMuN194NjRfZW4tVVMubXNpCjNENWl0dU5ZQXpBNFo2MUFLZnpMSCtUbVByNWdCdjlRcFBxTmZKS2JHSUNEUzR6K1BaVU9LZUUvbzdWUGZDa0lPUEZKZUtVUCtKTEdIWVI0WGJOWkRBPT0K\ntrusted comment: timestamp:1757823555\tfile:Obscura_1.3.6_x64_en-US.msi\nByY...==\n",
       "url": [
         "https://github.com/orafaelmiguel/obscurareleases/releases/download/v1.3.6/Obscura_1.3.6_x64_en-US.msi",
         "https://www.obscurasec.io/updates/v1.3.6/Obscura_1.3.6_x64_en-US.msi"
