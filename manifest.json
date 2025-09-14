@@ -1,13 +1,13 @@
 {
-  "version": "1.3.9",
+  "version": "1.3.10",
   "notes": "In this version, we created an automatic updater for the app",
   "pub_date": "2025-09-13T23:23:00-03:00",
   "platforms": {
     "windows-x86_64": {
 
-      "signature": "untrusted comment: signature from tauri secret key\ndW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZi91UlVKWGdJbFVjZFlJSzZiOVhzUExFNkt3dDE2L29tT0VkZ1lHUHlxaDlFMVQ1b1hrTUNwU21DMyt6TTRWL1RXV3VzUk9hdlpUSDJEdFZ6bzlFZU44YWx6YUxkYkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODgwNzIyCWZpbGU6T2JzY3VyYV8xLjMuOV94NjRfZW4tVVMubXNpCldVR3lLK24wV3pscnZQeFBWTzdCUjBWdGVHRnhZWXZtblN0d2tnc3JnUWZJbExRcnhPVWwxZzgycWZmM1Z5ZVZUeGJSVXJPeEY0ejk0UVhMWVVNTEF3PT0K\ntrusted comment: timestamp:1757823555\tfile:Obscura_1.3.6_x64_en-US.msi\nByY...==\n",
+      "signature": "untrusted comment: signature from tauri secret key\ndW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZi91UlVKWGdJbFdGRTFmMVlsa3ZmcEl2QjgrdDNTWWc3YVRTV0xRT2FZdDRLRjBNQlUxRkJDOUR5UGRNdzBWT3RVQkhGd2I3bThNbWRaYkNvRDd2ZGwvKzJsbGQxaVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODgyMTM5CWZpbGU6T2JzY3VyYV8xLjMuMTBfeDY0X2VuLVVTLm1zaQpUMHk3bjFTQ29uMUZmdE4vU3VRSVlvNmlCTXExMWZIL2dicng3MzZFMklQb2YyN3IwUzhESWZQSHN4TkxxMHVVQlNueHBoOTZUdTNWOGNTaERIc2FEUT09Cg==\ntrusted comment: timestamp:1757823555\tfile:Obscura_1.3.6_x64_en-US.msi\nByY...==\n",
       "url": [
-        "https://github.com/orafaelmiguel/obscurareleases/releases/download/v1.3.9/Obscura_1.3.9_x64_en-US.msi",
+        "https://github.com/orafaelmiguel/obscurareleases/releases/download/v1.3.10/Obscura_1.3.10_x64_en-US.msi",
       ]
     }
   }
