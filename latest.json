@@ -1,11 +1,11 @@
 {
-  "version": "1.3.12",
+  "version": "1.3.14",
   "notes": "correções e melhorias",
   "pub_date": "2025-09-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/orafaelmiguel/obscurareleases/releases/download/v1.3.12/Obscura_1.3.12_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZi91UlVKWGdJbGZPOXh4bE9ERVlDU2g4MFFnM2p3cGxDSHdJMDNNSVNLSXVzcjMxZExFMk5zbWRodVlvL0JYSUk3NVMxVDZqRTF1Mi9NRVF6R3JpdTRrdHRLeXZWVndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODg5MTMwCWZpbGU6T2JzY3VyYV8xLjMuMTJfeDY0X2VuLVVTLm1zaQpwUjh1Nnk2VFRVdWNzaStta1I2bHRyWUVmTEE2SFRVK2VibGlYVmJlbGhDMFUwNk0wN3VldWQ2aHpqbW1nUWw0Mnd1UEJUUGJtYW40Qk9CSHhjU1VDZz09Cg=="
+      "url": "https://github.com/orafaelmiguel/obscurareleases/releases/download/v1.3.14/Obscura_1.3.14_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZi91UlVKWGdJbFM2WVBiQXRpQUFXK3p3eWVqVmxxd0syN1k0UHpUWE94ZGg0NnNVcS9rc2lDLzBNOFdIRGExNEdwb0FCa05lVFlOcHNNMDVpS0V2V2VvaVFqRjBxK3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODkwNjc2CWZpbGU6T2JzY3VyYV8xLjMuMTRfeDY0X2VuLVVTLm1zaQpXSDJPNE1UdTFINkV6aTB5dW1WYUZORG9xY293VXJEaVh1MFF6M2YxMWlWWkZRekt4MEt0azBsYzNxYklMYWNCMkhkZ0FRNE5FTnpwcHRhSEl0WC9EZz09Cg=="
     }
   }
 }
